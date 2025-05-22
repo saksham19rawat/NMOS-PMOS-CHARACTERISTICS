@@ -27,13 +27,16 @@ I used the above to plot the basic characteristic plots for an NMOS Transistor, 
 **display** - This would display all the vectors available for plotting and printing.
 
 ### CIRCUIT DIAGRAM
-![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/Screenshot%202025-05-21%20123336.png?raw=true)
+![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/1.png?raw=true)
 
 ### NGSPICE
-![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/Screenshot%202025-05-21%20123412.png?raw=true)
+![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/ng%20spice%201.png?raw=true)
+
+### Vgs-DCsweep
+![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/-vgs.png?raw=true)
 
 ### Vds-DCsweep
-![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/Screenshot%202025-05-21%20123350.png?raw=true)
+![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/-vds.png?raw=true)
 
 ###
 
