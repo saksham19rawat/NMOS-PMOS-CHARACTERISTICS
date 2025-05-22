@@ -1,4 +1,4 @@
-# CMOS-INVERTER
+# NMOS AND PMOS CHARACTERISTICS
 
 ## BEFORE WE PROCEED
 In my circuit-design-simulation-tools repository, I covered the basics of EDA tools and how to set them up using a CMOS inverter as an example. So in this repository, we’ll dive straight into the actual working of the CMOS inverter
