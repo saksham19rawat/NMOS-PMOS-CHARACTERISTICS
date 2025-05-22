@@ -32,10 +32,10 @@ I used the above to plot the basic characteristic plots for an NMOS Transistor, 
 ### NGSPICE
 ![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/ng%20spice%201.png?raw=true)
 
-### Vgs-DCsweep
+### Vds-DCsweep
 ![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/-vgs.png?raw=true)
 
-### Vds-DCsweep
+### Vgs-DCsweep
 ![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/-vds.png?raw=true)
 
 ###
