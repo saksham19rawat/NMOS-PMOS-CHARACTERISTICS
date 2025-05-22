@@ -15,3 +15,17 @@ The flow of current is from the **Drain towards the source**
 ![image alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09uWkCK_FGyIydn89HTp6dpdWlScXAzbCNw&s)
 
 
+## PLOTTING Vds CHARACTERISTICS OF NMOS
+
+### CIRCUIT DIAGRAM
+![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/Screenshot%202025-05-21%20123336.png?raw=true)
+
+### NGSPICE
+![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/Screenshot%202025-05-21%20123412.png?raw=true)
+
+### Vds DC SWEEP
+![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/Screenshot%202025-05-21%20123350.png?raw=true)
+
+
+
+
