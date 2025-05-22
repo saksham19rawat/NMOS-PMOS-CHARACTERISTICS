@@ -17,14 +17,25 @@ The flow of current is from the **Drain towards the source**
 
 ## PLOTTING Vds CHARACTERISTICS OF NMOS
 
+The components used are:
+**nfet_01v8.sym** - from xschem_sky130 library
+**vsource.sym** - from xschem devices library
+**code_shown.sym** - from xschem devices library
+
+I used the above to plot the basic characteristic plots for an NMOS Transistor, That is **Ids vs Vds** and **Ids vs Vgs**.After this just hit **Netlist** then Simulate. ngspice would pop up and start doing the simulation based calculations. It will take time as all the libraries need to be called and attached to the simulation spice engine. Once that is done, you need to write a couple commands in the ngspice terminal:
+
+**display** - This would display all the vectors available for plotting and printing.
+
 ### CIRCUIT DIAGRAM
 ![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/Screenshot%202025-05-21%20123336.png?raw=true)
 
 ### NGSPICE
 ![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/Screenshot%202025-05-21%20123412.png?raw=true)
 
-### Vds DC SWEEP
+### Vds-DCsweep
 ![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/Screenshot%202025-05-21%20123350.png?raw=true)
+
+###
 
 
 
