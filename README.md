@@ -1,13 +1,9 @@
 # NMOS AND PMOS CHARACTERISTICS
 
 ## BEFORE WE PROCEED
-In my circuit-design-simulation-tools repository, I covered the basics of EDA tools and how to set them up using a CMOS inverter as an example. So in this repository, we’ll dive straight into the actual working of the CMOS inverter
+In my **circuit-design-simulation-tools** repository, I covered the basics of EDA tools and how to set them up using a CMOS inverter as an example. So in this repository, we’ll dive straight into the actual working of the CMOS inverter
 
-
-
-
-
-## PLOTTING Vds CHARACTERISTICS OF NMOS
+## PLOTTING CHARACTERISTICS OF NMOS AND PMOS
 
 The components used are:
 
@@ -43,7 +39,15 @@ The flow of current is from the **Drain towards the source**
 ### Vgs-DCsweep
 ![image alt](https://github.com/saksham19rawat/NMOS-PMOS-CHARACTERISTICS/blob/main/project%20work/-vds.png?raw=true)
 
-###
+# PMOS CHARACTERISTICS 
+An **PMOS transistor (p-type metal-oxide-semiconductor transistor)** is a type of MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) that uses **p-type carriers (holes)** as the majority charge carriers.
+
+The **Channel** is made up of holes and the substrate is of **N-Type** 
+
+The flow of current is from the **Source towards the Drain**
+![image alt](https://www.censtry.com/files/ueditor/image/20240131/6384228715111282221516252.png)
+![image alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09uWkCK_FGyIydn89HTp6dpdWlScXAzbCNw&s)
+
 
 
 
