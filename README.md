@@ -45,7 +45,7 @@ An **PMOS transistor (p-type metal-oxide-semiconductor transistor)** is a type o
 The **Channel** is made up of holes and the substrate is of **N-Type** 
 
 The flow of current is from the **Source towards the Drain**
-![image alt](https://www.censtry.com/files/ueditor/image/20240131/6384228715111282221516252.png)
+![image alt](https://www.allelcoelec.com/upfile/images/53/20240508135018868.png)
 ![image alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09uWkCK_FGyIydn89HTp6dpdWlScXAzbCNw&s)
 
 
